@@ -1,0 +1,14 @@
+C:\Users\johann.albino\source\repos\APIIntroducao\bin\Debug\netcoreapp2.1\APIIntroducao.deps.json
+C:\Users\johann.albino\source\repos\APIIntroducao\bin\Debug\netcoreapp2.1\APIIntroducao.runtimeconfig.json
+C:\Users\johann.albino\source\repos\APIIntroducao\bin\Debug\netcoreapp2.1\APIIntroducao.runtimeconfig.dev.json
+C:\Users\johann.albino\source\repos\APIIntroducao\bin\Debug\netcoreapp2.1\APIIntroducao.dll
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.RazorAssemblyInfo.cache
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.RazorAssemblyInfo.cs
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.AssemblyInfoInputs.cache
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.AssemblyInfo.cs
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.RazorTargetAssemblyInfo.cache
+C:\Users\johann.albino\source\repos\APIIntroducao\bin\Debug\netcoreapp2.1\APIIntroducao.pdb
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.dll
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.pdb
+C:\Users\johann.albino\source\repos\APIIntroducao\obj\Debug\netcoreapp2.1\APIIntroducao.csprojAssemblyReference.cache
